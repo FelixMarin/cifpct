@@ -2830,6 +2830,10 @@ h3 {
   padding-bottom: 200px;
 }
 
+.dept_padding_oferta {
+  padding-top: 100px;
+}
+
 @media (max-width: 767px) {
   /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_department.scss */
   .depertment_area {
@@ -2928,7 +2932,7 @@ h3 {
 
 /* line 69, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_department.scss */
 .depertment_area .depart_ment_tab .nav {
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 /* line 71, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_department.scss */
