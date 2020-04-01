@@ -2826,8 +2826,8 @@ h3 {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 170px;
+  padding-bottom: 50px;
 }
 
 .dept_padding_oferta {
@@ -2844,7 +2844,7 @@ h3 {
 
 /* line 12, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_department.scss */
 .depertment_area .row.custom_align {
-  margin-bottom: 40px;
+  margin-bottom: 35px;
 }
 
 @media (max-width: 767px) {

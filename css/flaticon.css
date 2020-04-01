@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 28/03/2020 13:03
+  	Creation date: 31/03/2020 10:44
   	*/
 
 @font-face {
@@ -25,16 +25,28 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-  font-size: 50px;
   font-style: normal;
 }
 
-.flaticon-arrival:before { content: "\f100"; }
-.flaticon-destination:before { content: "\f101"; }
-.flaticon-destination-1:before { content: "\f102"; }
-.flaticon-work:before { content: "\f103"; }
-.flaticon-mortarboard:before { content: "\f104"; }
-.flaticon-scholarship:before { content: "\f105"; }
-.flaticon-contract:before { content: "\f106"; }
-.flaticon-bar-chart:before { content: "\f107"; }
-.flaticon-computer:before { content: "\f108"; }
+.flaticon-java:before { content: "\f100"; }
+.flaticon-portfolio:before { content: "\f101"; }
+.flaticon-arrival:before { content: "\f102"; }
+.flaticon-destination:before { content: "\f103"; }
+.flaticon-partnership:before { content: "\f104"; }
+.flaticon-safety:before { content: "\f105"; }
+.flaticon-merit:before { content: "\f106"; }
+.flaticon-microsoft:before { content: "\f107"; }
+.flaticon-contract:before { content: "\f108"; }
+.flaticon-bar-chart:before { content: "\f109"; }
+.flaticon-computer:before { content: "\f10a"; }
+.flaticon-calendar:before { content: "\f10b"; }
+.flaticon-report:before { content: "\f10c"; }
+.flaticon-report-1:before { content: "\f10d"; }
+.flaticon-businessman:before { content: "\f10e"; }
+.flaticon-suitcase:before { content: "\f10f"; }
+.flaticon-analysis:before { content: "\f110"; }
+.flaticon-computer-1:before { content: "\f111"; }
+.flaticon-network:before { content: "\f112"; }
+.flaticon-engineer:before { content: "\f113"; }
+.flaticon-javascript:before { content: "\f114"; }
+.flaticon-3d:before { content: "\f115"; }
