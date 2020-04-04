@@ -1273,7 +1273,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.jpg);
+  background-image: url(../img/banner/banner_main.jpg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_slider.scss */
@@ -2527,6 +2527,38 @@ h3 {
   background-image: url(../img/banner/bradcam2.png);
 }
 
+.breadcam_bg_1#brad_oferta {
+  background-image: url(../img/banner/banner.jpg);
+}
+
+.breadcam_bg_1#bradcam_directiva {
+  background-image: url(../img/banner/banner2.jpg);
+}
+
+.breadcam_bg_1#bradcam_fpdual {
+  background-image: url(../img/banner/banner3.jpg);
+}
+
+.breadcam_bg_1#bradcam_admin {
+  background-image: url(../img/banner/banner4.jpg);
+}
+
+.breadcam_bg_1#bradcam_consejo {
+  background-image: url(../img/banner/banner5.jpg);
+}
+
+.breadcam_bg_1#bradcam_comercio {
+  background-image: url(../img/banner/banner6.jpg);
+}
+
+.breadcam_bg_1#bradcam_informatica {
+  background-image: url(../img/banner/banner7.jpg);
+}
+
+.breadcam_bg_1#bradcam_certmicrosoft {
+  background-image: url(../img/banner/banner8.jpg);
+}
+
 /* line 7, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
   background-image: url(../img/banner/bradcam3.png);
@@ -2830,6 +2862,64 @@ h3 {
   padding-bottom: 50px;
 }
 
+.depertment_area#fpdual_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#ofertaeducativa_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#consejo_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#certificadomicrosoft_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+ul#enumcert {
+  list-style-type: square !important;
+}
+
+.depertment_area#empleo_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#index_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 140px;
+  padding-bottom: 50px;
+}
+
 .dept_padding_oferta {
   padding-top: 100px;
 }
@@ -2941,6 +3031,13 @@ h3 {
   -ms-flex: 14.4% 0 0px;
   flex: 14.4% 0 0;
   margin-bottom: 30px;
+}
+
+.depertment_area .depart_ment_tab .nav li.li-admi {
+  -webkit-box-flex: 29%;
+  -ms-flex: 29% 0 0px;
+  flex: 29% 0 0 !important;
+  margin-bottom: 30px !important;
 }
 
 @media (max-width: 767px) {
