@@ -2862,6 +2862,33 @@ h3 {
   padding-bottom: 50px;
 }
 
+.depertment_area#admon_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#comercio_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#convocatoria_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
 .depertment_area#fpdual_area {
   background-image: url(../img/banner/department.jpg);
   background-repeat: no-repeat;
@@ -2890,6 +2917,15 @@ h3 {
 }
 
 .depertment_area#certificadomicrosoft_area {
+  background-image: url(../img/banner/department.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-top: 130px;
+  padding-bottom: 50px;
+}
+
+.depertment_area#informatica_area{
   background-image: url(../img/banner/department.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -3034,6 +3070,13 @@ ul#enumcert {
 }
 
 .depertment_area .depart_ment_tab .nav li.li-admi {
+  -webkit-box-flex: 29%;
+  -ms-flex: 29% 0 0px;
+  flex: 29% 0 0 !important;
+  margin-bottom: 30px !important;
+}
+
+.depertment_area .depart_ment_tab .nav li.li-info {
   -webkit-box-flex: 29%;
   -ms-flex: 29% 0 0px;
   flex: 29% 0 0 !important;

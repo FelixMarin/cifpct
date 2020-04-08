@@ -17,4 +17,11 @@ function init() {
     $(document).ready(function() {
     $('.js-example-basic-multiple').select();
 });
+
+if(window.document.getElementById('fr-action') === null || 
+        window.document.getElementById('fr-action') === undefined) {
+    //do_nothing
+} else {
+    window.document.getElementById('fr-action').click();
+}
 }
