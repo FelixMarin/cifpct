@@ -22,6 +22,6 @@ if(window.document.getElementById('fr-action') === null ||
         window.document.getElementById('fr-action') === undefined) {
     //do_nothing
 } else {
-    window.document.getElementById('fr-action').click();
+    //window.document.getElementById('fr-action').click();
 }
 }

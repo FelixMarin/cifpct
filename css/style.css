@@ -2176,8 +2176,8 @@ p#contacto-title {
 
 /* line 9, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_footer.scss */
 .footer .footer_top {
-  padding-top: 130px;
-  padding-bottom: 110px;
+  padding-top: 70px;
+  padding-bottom: 25px;
 }
 
 @media (max-width: 767px) {
@@ -2870,120 +2870,13 @@ p#contacto-title {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  padding-top: 170px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#convocatorias_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
   padding-top: 130px;
   padding-bottom: 50px;
 }
 
-.depertment_area#calendario_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#admon_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#admision_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#comercio_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#convocatoria_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#fpdual_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#ofertaeducativa_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#consejo_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#certificadomicrosoft_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
-
-.depertment_area#informatica_area{
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
-}
 
 ul#enumcert {
   list-style-type: square !important;
-}
-
-.depertment_area#empleo_area {
-  background-image: url(../img/banner/department.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  padding-top: 130px;
-  padding-bottom: 50px;
 }
 
 .depertment_area#index_area {
