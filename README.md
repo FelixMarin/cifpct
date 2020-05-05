@@ -1,5 +1,5 @@
 # Página web - cifpct
-La página web debe de contener los siguientes apartados.
+La página web contiene los siguientes apartados.
 - **NUESTRO CENTRO**: En este apartado se muestra información sobre el instituto. En este apartado podremos encontrar información como "Oferta educativa", "Equipo directivo", "Consejo escolar" o "Comisión de coordinación pedagógica"
 - **SECRETARÍA**: En este apartado se muestra información sobre cómo realizar las tareas más comunes que se realizan en la secretaría del centro. En este apartado tendremos información como "Becas y ayudas", "Proceso de admisión", " Pruebas y convocatorias" o "Impresos"
 - **DEPARTAMENTOS**: En este apartado se mostrarán los distintos departamentos que componen el centro educativo "Matemáticas", "Dibujo", etc. Además los jefes de departamento podrán colocar en cada uno de sus apartados la información de interés que ellos estimen convenientes.
